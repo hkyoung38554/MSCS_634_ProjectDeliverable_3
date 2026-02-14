@@ -1,11 +1,15 @@
 # MSCS 634 – Project Deliverable 3
 ## Classification, Clustering, and Pattern Mining
 
-### Group Members:
-Pabitra Bhandari
-Haeri Kyoung
-Vamsi Krishna Gajulapalli
-Prakash Tamang
+
+**Group Members:**  
+Pabitra Bhandari  
+
+Haeri Kyoung  
+
+Vamsi Krishna Gajulapalli  
+
+Prakash Tamang  
 
 
 ### Classification
