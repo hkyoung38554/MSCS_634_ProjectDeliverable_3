@@ -4,11 +4,8 @@
 
 **Group Members:**  
 Pabitra Bhandari  
-
 Haeri Kyoung  
-
 Vamsi Krishna Gajulapalli  
-
 Prakash Tamang  
 
 
